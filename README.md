@@ -4,7 +4,7 @@ A warmer climate affects ice sheets in several ways. The most evident impact obs
 
 Fossil fuel consumption has increased significantly over the past half-century.Fossil fuels (coal, oil, gas) have, and continue to, play a dominant role in global energy systems.But they also come with several negative impacts. When burned they produce carbon dioxide (CO2) and are the largest driver of global climate change. Which cause to increase both air and ocean surface temperature.
 
-I have used *****Power BI***** to create and intereactive dashboard which shows how sea **surface temperature is increasing and snow cover, U.S. Glaciers, ice sheet are decreasing.**
+I have used *****Power BI***** to create and interactive dashboard which shows how sea **surface temperature is increasing and snow cover, U.S. Glaciers, ice sheet are decreasing.**
 
 <img src="https://github.com/muksanakhatun/PowerBi-projects/blob/main/image.png" alt="SS 1"/>
 
