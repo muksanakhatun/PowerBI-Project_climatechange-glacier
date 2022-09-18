@@ -17,4 +17,7 @@ changes in the average thickness of a glacier.
 - Atmospheric methane (CH₄) concentration is measured in parts per billion (ppb).
 - Atmospheric nitrous oxide (N₂O) concentration is measured in parts per billion (ppb)
 
-So, if we don't take any action against ***climate change*** then  With continued carbon emissions, the melting of other ice caps and thermal expansion of the ocean, a multi-metre sea-level rise appears likely.It is bad news for the nearly 600 million people that live in **coastal zones**worldwide.
+So, if we don't take any action against ***climate change*** then  With continued carbon emissions, the melting of other ice caps and thermal expansion of the ocean, a multi-metre sea-level rise appears likely.It is bad news for the nearly 600 million people that live in **coastal zones** worldwide. Other major problems that will ocure are:
+1. destabilized global food systems
+2. habitat loss for polar wildlife
+3. Scarcity of fresh water.
