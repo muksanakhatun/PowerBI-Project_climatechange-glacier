@@ -1,5 +1,5 @@
-# Climate Change and It's Effect On Ice Sheet
-
+# Climate Change and It's Effect On Ice Sheets & Glaciers
+>>
 A warmer climate affects ice sheets in several ways. The most evident impact observed to date is a loss of ice due to warmer air and ocean waters. Warmer air causes the ice to melt more quickly and flow more rapidly to the sea, especially in low-elevation regions near the edges of the ice sheets.
 
 Fossil fuel consumption has increased significantly over the past half-century.Fossil fuels (coal, oil, gas) have, and continue to, play a dominant role in global energy systems.But they also come with several negative impacts. When burned they produce carbon dioxide (CO2) and are the largest driver of global climate change. Which cause to increase both air and ocean surface temperature.
@@ -20,4 +20,4 @@ changes in the average thickness of a glacier.
 So, if we don't take any action against ***climate change*** then  With continued carbon emissions, the melting of other ice caps and thermal expansion of the ocean, a multi-metre sea-level rise appears likely.It is bad news for the nearly 600 million people that live in **coastal zones** worldwide. Other major problems that will ocure are:
 1. destabilized global food systems
 2. habitat loss for polar wildlife
-3. Scarcity of fresh water.
+3. Scarcity of fresh water etc.
